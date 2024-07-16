@@ -2,7 +2,7 @@ package com.qa;
 
 /**
  * Hello world!
- * testing jenkins build scott
+ * 
  */
 public class App 
 {
@@ -17,11 +17,11 @@ public class App
     }
 
     public static String sayHello(){
-        return "Hello Scott World!";
+        return "Hello World!";
     }
 
     public static String sayGoodbye(){
-        return "Hello happy  World!";
+        return "Hello World!";
     }
 
     public static String sayHelloToSomeone(String name){
